@@ -7,6 +7,7 @@ w1.title("Calculator")
 BUTTON_WIDTH = 5
 BUTTON_HEIGHT = 3
 
+
 entry = Text(width= 20, height= 1, pady=5)
 entry.grid(row=0, column=0, columnspan=4)
 
