@@ -4,7 +4,7 @@ w1 = Tk()
 w1.title("Calculator")
 #w1.geometry('400x500')
 
-BUTTON_WIDTH = 5
+BUTTON_WIDTH = 4
 BUTTON_HEIGHT = 3
 
 
